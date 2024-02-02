@@ -1,0 +1,3 @@
+﻿  Glfw.cpp
+C:\Users\Darien\Desktop\Github Repo's\GDGRAP1\Module3\Glfw.cpp(204,55): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Module3.vcxproj -> C:\Users\Darien\Desktop\Github Repo's\GDGRAP1\Module3\x64\Debug\Module3.exe
